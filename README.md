@@ -91,10 +91,26 @@ movies-data-analysis/
 ## 🚀 How to Run the Project
 1. Clone the repository
    ```bash```
-   git clone https://github.com/your-username/movies-data-analysis.git
+   git clone https://github.com/burney10/movies-data-analysis.git
    
 2. Install dependencies
    ```bash```
    pip install pandas numpy matplotlib seaborn
 
 3. Run the Jupyter Notebook
+
+---
+
+## 📌 Future Improvements
+- Add sentiment analysis
+- Build a recommendation system
+- Deploy insights using Tableau or Power BI
+- Include machine learning-based popularity prediction
+
+---
+
+## 👤 Author
+Ankan Senapati
+Aspiring Data Scientist | Machine Learning Enthusiast
+
+---
