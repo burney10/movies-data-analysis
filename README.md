@@ -89,11 +89,11 @@ movies-data-analysis/
 ---
 
 ## 🚀 How to Run the Project
-1. Clone the repository
+1. Clone the repository :
    ```bash```
    git clone https://github.com/burney10/movies-data-analysis.git
    
-2. Install dependencies
+2. Install dependencies :
    ```bash```
    pip install pandas numpy matplotlib seaborn
 
